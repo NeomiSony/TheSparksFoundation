@@ -1,6 +1,6 @@
 # TheSparksFoundation
 
-## Task-1 Prediction using Supervised ML(Linear Regression)
+## Task-1 Prediction using Supervised ML-Linear Regression
 
 Predict the percentage of marks of a student based on the number of study hours.
 
