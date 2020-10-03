@@ -1,5 +1,5 @@
 # TheSparksFoundation
 Task-1
 
-Precition using Supervised ML
+Prediction using Supervised ML
 Predict the percentage of marks of a student based on the number of study hours.
