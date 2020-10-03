@@ -10,4 +10,4 @@ The video link is -https://youtu.be/BpVvKpoqqyU
 
 Predicting the optimum number of clusters and representing it visually.
 
-The video link is -
+The video link is -https://youtu.be/mJQ0Oou37uY
