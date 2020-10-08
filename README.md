@@ -11,3 +11,9 @@ The video link is -https://youtu.be/BpVvKpoqqyU
 Predicting the optimum number of clusters and representing it visually.
 
 The video link is -https://youtu.be/k95UxJDMnb4
+
+## Task-3 Prediction using Decision Tree Algorithm
+
+Create the decision tree classifier and visualize it graphically. 
+
+The video link is -https://youtu.be/k95UxJDMnb4
