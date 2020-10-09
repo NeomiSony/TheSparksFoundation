@@ -22,4 +22,4 @@ The video link is -https://youtu.be/UwjFuv7ykuU
 
 Perform exploratory data analysis on the provided data set. 
 
-The video link is -https://youtu.be/UwjFuv7ykuU
+The video link is -https://youtu.be/UxLH_ix3sjI
